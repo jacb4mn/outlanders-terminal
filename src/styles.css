@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+*{
+  color: lawngreen;
+}
+
+/* Container styling */
+.container {
+  display: inline-block;
+  width: 100%;
+}

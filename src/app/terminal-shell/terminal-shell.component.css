@@ -1,0 +1,36 @@
+#global-terminal-wrapper {
+  background-color: dimgrey;
+  height: 768px;
+}
+
+#application-main-display {
+  background-color: black;
+  position: relative;
+  width: 65%;
+  height: 60%;
+  margin: 0 2% 5% 1%;
+}
+
+#application-side-display {
+  width: 29%;
+  height: 60%;
+  position: relative;
+  background-color: black;
+  margin: 0 2% 5% 1%;
+}
+
+#ship-status-display {
+  width: 36%;
+  height: 29%;
+  position: relative;
+  background-color: black;
+  margin: 0 2% 5% 1%;
+}
+
+#management-options-display {
+  width: 42%;
+  height: 29%;
+  position: relative;
+  background-color: black;
+  margin: 0 2% 5% 1%;
+}
